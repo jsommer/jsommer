@@ -1,5 +1,7 @@
-### Hi there 👋
+### Josh Sommer
+### Technical Partner Manager @GitHub [![Alt](./img/GitHub-Mark-32px.png)](https://github.com "GitHub")
 
+[1]: ./img/GitHub-Mark-32px.png
 <!--
 **jsommer/jsommer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
