@@ -1,5 +1,10 @@
 Josh Sommer
-| | |
-| --- | --- |
-| [![Alt](./img/GitHub_Logo.png)](https://github.com "GitHub") | Technical Partner Manager @GitHub |
-| [![Alt](./img/MS.png)](https://microsoft.com "Microsoft") | Previously @Microsoft focused on DevOps |
+
+<table>
+  <tr>
+    <td><img src="./img/GitHub_Logo.png" alt="GitHub Logo" width="200"/></td><td> Technical Partner Manager @GitHub</td>
+  </tr>
+  <tr>
+    <td><img src="./img/MS.png" alt="Microsoft Logo" width="200"/></td><td> Previously @Microsoft focused on DevOps</td>
+  </tr>
+</table>
